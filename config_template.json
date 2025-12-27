@@ -1,0 +1,14 @@
+{
+  "api_key": "YOUR_GROQ_API_KEY_HERE",
+  "whatsapp_group_link": "https://chat.whatsapp.com/YOUR_GROUP_LINK",
+  "schedule_times": {
+    "morning": "11:30",
+    "afternoon": "16:30",
+    "night": "21:30"
+  },
+  "message_templates": {
+    "morning": "11:30 AM – Pre-Lunch Hunger",
+    "afternoon": "4:30 PM – Evening Snack Time",
+    "night": "9:30 PM – Late Night Cravings"
+  }
+}
